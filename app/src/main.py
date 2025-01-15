@@ -9,7 +9,7 @@ from sktime.forecasting.naive import NaiveForecaster
 from sktime.forecasting.model_selection import temporal_train_test_split
 
 # Dados do arquivo CSV
-data = pd.read_csv('naive-model-app/app/utils/dados_historicos_Ibovespa.csv', delimiter=',', decimal=',', parse_dates=['Data'], dayfirst=True)
+data = pd.read_csv('app/utils/dados_historicos_Ibovespa.csv', delimiter=',', decimal=',', parse_dates=['Data'], dayfirst=True)
 
 # Selecionar a coluna último e converter para valores numéricos
 y = pd.to_numeric(data['Último'], errors='coerce')
