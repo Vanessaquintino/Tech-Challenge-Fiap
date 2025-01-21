@@ -1,0 +1,8 @@
+scikit-learn
+openpyxl
+sktime
+seaborn
+imbalanced-learn
+pandas>=1.3.0  # Atualizado com a versão mínima para sua necessidade
+matplotlib
+numpy
