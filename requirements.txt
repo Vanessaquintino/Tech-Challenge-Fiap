@@ -1,3 +1,4 @@
+#rode os comandos abaixo para instalar as dependências
 scikit-learn
 openpyxl
 sktime
