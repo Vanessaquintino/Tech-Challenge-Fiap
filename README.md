@@ -10,9 +10,9 @@ requirements.txt: Arquivo com as dependências necessárias para o projeto.
 Requisitos
 Certifique-se de ter o Python instalado (recomendado: Python 3.8 ou superior). 
 Você também precisará do gerenciador de pacotes pip.
+
 Configurando o Ambiente
 Clone o repositório Baixe o projeto para sua máquina usando o comando:
 git clone https://github.com/seu-repositorio.git
 cd seu-repositorio
 git checkout Naive2
-
